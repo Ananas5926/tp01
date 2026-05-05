@@ -1,3 +1,6 @@
+package tpD.tp01;
+
+
 public class Score {
     String name; 
     int score ;

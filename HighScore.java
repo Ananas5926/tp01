@@ -1,3 +1,6 @@
+package tpD.tp01;
+
+
 public class HighScore {
     Score[] top; 
 
@@ -67,7 +70,8 @@ public class HighScore {
         }
         return false ;
     }
-    
+   
+   
     boolean addOneSlotPerPlayer(Score newScore){ 
         for(int idx = 0; idx < top.length; idx++){
 

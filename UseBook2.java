@@ -1,3 +1,6 @@
+package tpD.tp01;
+
+
 class UseBook2{
 
     public static void main(String[] args){

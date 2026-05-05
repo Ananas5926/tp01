@@ -1,3 +1,6 @@
+package tpD.tp01;
+
+
 class UseHighScore2{
 
     public static void main(String[] args){
